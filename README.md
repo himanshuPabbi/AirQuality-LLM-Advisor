@@ -38,7 +38,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/himanshuPabbi/AirQuality-LLM-Advisor
 cd your-repo-name
 Create a Virtual Environment:
 
