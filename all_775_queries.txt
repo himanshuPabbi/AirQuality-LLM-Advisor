@@ -1,0 +1,775 @@
+What is the current AQI in Delhi?
+Which city currently has the worst air quality?
+Which city has the cleanest air right now?
+What is the AQI category for Mumbai today?
+Compare AQI values between Delhi and Bangalore.
+Which cities are showing a downward trend in AQI recently?
+What’s the average AQI across all cities in the dataset?
+Rank the top five cities by AQI.
+What is the PM2.5 concentration in Chennai?
+Which city has the highest PM10 level today?
+Identify any cities falling under the "Poor" AQI category.
+Which city has shown improvement since the last recorded date?
+Which cities currently fall under the "Moderate" category?
+Is there any city with AQI over 400?
+Provide a comparison of AQI buckets among the top 3 polluted cities.
+What percentage of cities are currently in "Good" condition?
+Which cities have AQI between 150 and 200?
+How many cities have AQI less than 100?
+Which city shows the sharpest increase in AQI since the last measurement?
+What is the distribution of AQI buckets across all cities
+What is the AQI at Anand Vihar station?
+Which station recorded the highest AQI today?
+List the top 5 most polluted stations.
+Which station has the cleanest air quality?
+Compare PM2.5 levels between two specific stations.
+Which city has the most polluted station overall?
+Which stations report “Severe” AQI levels?
+How many stations are categorized under “Very Poor”?
+What is the AQI range among all monitoring stations?
+Is there any station with missing data?
+Which station shows the highest PM10 reading?
+What is the average AQI across all stations in Delhi?
+Compare the AQI between urban and suburban stations.
+How consistent are AQI readings across stations in one city?
+Which station consistently reports poor air quality?
+What is the correlation between PM2.5 and AQI values at station level?
+How many stations fall under “Moderate” AQI?
+List all stations located in cities with AQI above 300.
+Identify stations with “Good” air quality status.
+Which stations require immediate intervention?
+How does PM2.5 affect overall AQI ranking?
+What’s the average PM2.5 concentration across all cities?
+Which pollutant contributes most to poor air quality?
+Compare PM2.5 and PM10 levels for the worst city.
+Which cities have high PM10 but moderate AQI?
+Which pollutants are most critical for public health in the dataset?
+Is PM2.5 consistently higher than PM10 across locations?
+Which cities show a mismatch between PM levels and AQI buckets?
+How do PM2.5 and PM10 correlate across the dataset?
+Which stations have the largest PM2.5-PM10 difference?
+Rank pollutants by their average concentration.
+Are there any cities with unusually low pollutant values?
+Which pollutant shows the greatest variance among stations?
+How do AQI categories relate to PM2.5 thresholds?
+Are there outliers in PM10 readings?
+How do AQI and PM values vary with city size or region?
+Compare the PM2.5 averages between northern and southern cities.
+Which pollutant levels exceed WHO limits most frequently?
+Identify the cleanest pollutant profile across all cities.
+Are PM2.5 and PM10 trends aligned across datasets?
+What health advice applies to “Poor” AQI levels?
+What should citizens do when AQI exceeds 300?
+What are the symptoms of long-term exposure to PM2.5?
+Which age groups are most vulnerable to high AQI?
+What protective measures are recommended during severe pollution?
+What does the “Moderate” AQI category mean for sensitive groups?
+How can public transport use help reduce AQI?
+What is the role of mask types in air pollution protection?
+How does poor AQI affect people with asthma?
+What are the key national air quality standards in India?
+What actions can local authorities take during high AQI periods?
+How does AQI monitoring support public health?
+What are the economic costs of bad air quality?
+How can citizens track real-time AQI levels safely?
+What steps reduce PM2.5 indoors during high pollution days?
+What are the WHO AQI classification ranges?
+How does long-term AQI exposure affect heart disease?
+What government initiatives target AQI reduction?
+What public awareness strategies improve compliance with AQI alerts?
+What medical advice applies during “Severe” conditions?
+How does AQI correlate with PM2.5 across all cities?
+Which cities demonstrate seasonal AQI variation patterns?
+Is there a significant difference between city and station AQIs?
+How do AQI readings vary across different data collection times?
+Can clustering identify pollution pattern groups among cities?
+What is the AQI trendline across the top 10 polluted cities?
+Which stations form pollution hotspots geographically?
+Can PM2.5 and PM10 be used to predict AQI bucket categories?
+How does urban density relate to AQI values?
+What statistical model best fits the AQI distribution?
+What is the variance in AQI across all cities?
+How many stations have AQI within 10% of the city average?
+Which regions are underrepresented in the dataset?
+What insights can be derived by merging city_hour and station_hour data?
+How could Groq LPU acceleration improve response time for large datasets?
+What is the average latency of Groq model responses per query?
+How does the chatbot handle missing or incomplete data entries?
+What percentage of chatbot responses cite specific data context?
+How can token optimization improve contextual relevance?
+How might multilingual extensions affect user accessibility for AQI data?
+What is AQI and why is it important?
+How does AQI affect human health?
+What are the main pollutants considered in AQI calculation?
+What is considered a good AQI?
+How can people reduce their exposure to air pollution?
+What is the difference between PM2.5 and PM10?
+How does temperature influence air pollution levels?
+How does wind speed affect AQI readings?
+What are the health impacts of long-term PM2.5 exposure?
+How is AQI categorized into different health levels?
+Why does air quality worsen in winter?
+What is the safe limit of PM2.5 as per WHO guidelines?
+How can AQI be improved in urban areas?
+What steps can local governments take to reduce pollution?
+What is the difference between city-level and station-level AQI data?
+What is the current AQI in Delhi?
+Which city has the worst air quality today?
+Which city has the best air quality today?
+What is the AQI bucket for Mumbai?
+List the top 5 most polluted cities.
+Compare the AQI of Delhi and Mumbai.
+Which cities have AQI below 100?
+How many cities are currently in the “Poor” category?
+What city shows the largest difference between PM2.5 and PM10?
+Which city has shown recent improvement in air quality?
+What city’s AQI is closest to the national average?
+Are southern Indian cities performing better than northern ones?
+Which city recorded severe pollution last week?
+What is the AQI trend in major metro cities?
+Provide a summary of city-level AQI variation.
+How many cities have an AQI between 101 and 200?
+What is the AQI bucket distribution among cities?
+Which city has the cleanest air today?
+Which city experienced the fastest AQI deterioration recently?
+Which city’s PM10 concentration is highest?
+Which station has the worst AQI today?
+Which monitoring station shows the cleanest air?
+List all stations reporting “Moderate” air quality.
+Which station recorded the highest PM2.5 levels?
+What is the AQI value at the Anand Vihar station?
+Which station has AQI similar to Central Delhi?
+How many stations are recording “Poor” or worse AQI?
+Compare AQI between two stations in the same city.
+What is the PM10 concentration in the worst station?
+Which stations show improvement compared to yesterday?
+Which city has the most high-AQI stations?
+Are there stations with missing or invalid AQI data?
+Which station is a potential outlier in the dataset?
+What’s the average AQI across all monitoring stations?
+Which station corresponds to the most polluted city?
+How many monitoring stations are active?
+Which city has the largest number of stations?
+Do all stations in a city report similar AQI levels?
+Which stations fall in the “Very Poor” category?
+Identify the top 3 polluted stations overall.
+Compare PM2.5 and PM10 values for the most polluted city.
+Which pollutant contributes the most to poor AQI levels?
+What correlation exists between PM2.5 and AQI?
+Are high PM10 values always linked to poor AQI?
+Compare pollution levels between weekdays and weekends.
+Does the time of day affect air quality?
+Which city has the lowest PM10-to-PM2.5 ratio?
+Are metro cities worse than smaller towns?
+Which pollutant shows higher variability across stations?
+Does city population size correlate with AQI?
+How consistent are AQI readings among stations in the same city?
+Which region of India shows the best air quality?
+Compare northern vs. southern cities in terms of AQI.
+Is there evidence of improvement since last month?
+Identify the outliers in the dataset based on AQI values.
+Which city or station has unstable air quality patterns?
+Which cities have transitioned from “Poor” to “Moderate”?
+Compare AQI trends between industrial and coastal cities.
+Are stations near highways more polluted?
+What are the mean and median AQI values across all records?
+What is the public health risk for AQI above 400?
+Provide health advice for people in cities with “Poor” AQI.
+How does air pollution affect children’s health?
+What preventive measures are recommended for outdoor workers?
+How do AQI levels impact heart and lung patients?
+What precautions should be taken during a severe AQI alert?
+What are the long-term policy interventions to reduce AQI?
+Suggest community-level solutions to improve air quality.
+How does air pollution relate to climate change?
+What measures should be taken by schools during poor AQI days?
+How can air quality data support government planning?
+How reliable are AQI readings for policymaking?
+What role do electric vehicles play in improving air quality?
+What emergency steps should be taken during severe pollution?
+Suggest research-based interventions for urban air control.
+Generate a short summary of the AQI dataset.
+Identify missing or inconsistent data entries.
+What cities or stations dominate the dataset?
+Are there any data outliers that need verification?
+What can be inferred about the quality of data collection?
+How can this dataset help in predictive modeling of AQI?
+Which features are most influential in determining AQI?
+Can this data be used to train a health-risk prediction model?
+Suggest 3 data-driven insights based on the dataset.
+What patterns can be observed from the AQI trends?
+1. What is the current city with the highest AQI level?
+2. Which city has the cleanest air today?
+3. What is the average AQI across all cities?
+4. Which pollutants contribute most to the poor AQI levels?
+5. How does PM2.5 compare to PM10 in the worst city?
+6. What AQI category does the worst city fall into today?
+7. How many cities have an AQI above 200?
+8. List the top five most polluted cities.
+9. List the five cleanest cities by AQI.
+10. What is the current AQI bucket distribution across cities?
+11. What is the overall air quality trend this week?
+12. Which station reports the highest AQI value?
+13. Which station has the lowest AQI value?
+14. Which city has the largest difference between PM2.5 and PM10?
+15. What are the most common AQI categories across all cities?
+16. Which city recently moved from “Moderate” to “Poor” air quality?
+17. Which stations are consistently in the “Very Poor” category?
+18. Which city has shown improvement since the last measurement?
+19. What is the mean PM2.5 concentration across cities?
+20. What is the mean PM10 concentration across stations?
+21. Which station reports extreme pollution levels?
+22. What is the recommended health advisory for the worst city?
+23. How does today's AQI compare with yesterday’s (if available)?
+24. Which city has the most hazardous air quality index?
+25. Which city shows moderate pollution levels suitable for outdoor activity?
+26. Are there cities with an AQI below 50?
+27. How many cities have “Satisfactory” air quality today?
+28. What is the total number of cities being monitored?
+29. What is the total number of stations being monitored?
+30. Which city has the most monitoring stations?
+31. Which pollutant exceeds the national standard most frequently?
+32. What is the difference between PM2.5 and PM10 trends?
+33. Which region appears to have the best air quality today?
+34. What AQI range is considered safe for the public?
+35. What AQI levels are considered dangerous for children?
+36. What AQI levels are considered hazardous for elderly people?
+37. Which cities require emergency health alerts today?
+38. How does AQI affect outdoor activities?
+39. How does AQI relate to respiratory health issues?
+40. Which cities exceed the permissible PM2.5 limits?
+41. What is the PM10 level in the cleanest city?
+42. What is the PM2.5 level in the most polluted city?
+43. Which city has the highest PM10 reading?
+44. What advice should people follow when AQI is “Very Poor”?
+45. What advice should people follow when AQI is “Poor”?
+46. Which cities are on alert due to high AQI levels?
+47. Which city experienced the sharpest AQI increase?
+48. Which city has the best AQI improvement trend?
+49. How many cities are in each AQI category (Good, Satisfactory, etc.)?
+50. What city-level interventions can help improve AQI?
+51. What are common sources of PM2.5 pollution?
+52. What are common sources of PM10 pollution?
+53. How do meteorological factors affect AQI levels?
+54. How can citizens help reduce air pollution locally?
+55. How can urban planning improve air quality?
+56. What time of year typically shows the worst AQI?
+57. What industrial activities contribute to poor AQI?
+58. How do transport emissions affect AQI?
+59. Which city likely has heavy vehicular pollution?
+60. What city shows consistent “Good” AQI performance?
+61. Which stations have AQI under 100?
+62. What is the national average AQI for all stations combined?
+63. Which cities need stricter pollution control measures?
+64. Which city shows the highest PM2.5 to PM10 ratio?
+65. Which cities should issue a public health advisory today?
+66. What AQI range corresponds to “Good” air quality?
+67. What AQI range corresponds to “Poor” air quality?
+68. What AQI range corresponds to “Severe” air quality?
+69. What precautions should be taken when AQI is over 300?
+70. What does an AQI of 50 indicate?
+71. What does an AQI of 400 indicate?
+72. What long-term solutions can help reduce urban air pollution?
+73. Which pollutants dominate in industrial areas?
+74. Which cities show evidence of particulate matter reduction?
+75. How does urban greenery affect air pollution levels?
+76. What are WHO recommended PM2.5 exposure limits?
+77. What are WHO recommended PM10 exposure limits?
+78. How does air pollution affect cardiovascular health?
+79. Which stations have critical PM2.5 levels?
+80. Which stations have the best air quality index?
+81. How can citizens monitor air quality daily?
+82. What are government-recommended air quality measures?
+83. What are the impacts of seasonal changes on AQI?
+84. What can be inferred about indoor air quality from current AQI?
+85. What are the short-term impacts of poor air quality?
+86. What are the long-term health risks from sustained AQI over 200?
+87. Which cities show similar AQI trends?
+88. Compare AQI between two major cities.
+89. Compare PM2.5 levels between top 3 polluted cities.
+90. Which cities are safest for outdoor sports today?
+91. Which stations have consistently high PM10 levels?
+92. Which cities show “Moderate” AQI but high PM2.5 levels?
+93. Which pollutants dominate during winter months?
+94. Which pollutants dominate during summer months?
+95. Which cities have AQI improving year-on-year?
+96. Which cities exceed WHO PM2.5 limits by more than 3x?
+97. What percentage of cities have AQI above 200?
+98. What percentage of stations have AQI under 100?
+99. What would be the expected health outcome if AQI exceeds 400?
+100. Provide a short summary of today’s national air quality situation.
+Which city in the sample has a PM2.5 reading closest to the overall average PM2.5 of the sample?
+Rank the top five cities by the severity of their air quality category (AQI_Bucket).
+What is the ratio of PM10 to PM2.5 for the city with the highest reported AQI? (Test Calculation)
+Find a city that has an AQI below 200 but a PM2.5 value greater than 70.
+Is the air quality consistently better or worse at a sampled station compared to its encompassing city? (Test Generalization)
+Compare the difference in AQI between the best and worst city to the difference in their PM2.5 values.
+List the cities in the sample that would require the same general health advisory as a city with an AQI of 305.
+Which of the sampled stations reports a higher AQI than its corresponding city in the other context table? (Test Cross-Context Comparison)
+Calculate the mean PM10 value across all listed stations in the sample context. (Test Calculation/Refusal)
+Are there any sampled stations with a PM10 value that is zero? If so, what is the city?
+Summarize the air quality situation for the half of the sampled cities with the better air quality.
+Find the city with the third-lowest AQI and compare its PM2.5 to the second-highest AQI city.
+Which of the major pollutants (PM2.5, PM10) shows the greatest variance (range) across the sampled cities?
+How many sampled cities fall into the 'Unhealthy' or 'Very Poor' categories combined? (Test Count/Filtering)
+What is the date difference in days between the newest and oldest data points in the city context? (Test Time Calculation)
+Find a city where the PM2.5 value is greater than 100 but the AQI is less than 250.
+Group the sampled cities by their AQI_Bucket and state which bucket is most frequent.
+Which city's PM2.5 reading is closest to the value 45? (Test Closeness)
+Does the city with the lowest PM10 also have the lowest PM2.5 in the sample?
+In what percentage of the sampled cities is the PM10 value greater than the PM2.5 value?
+What are the key rules you were instructed to follow regarding cities/stations not in the sample data? (Test Rule Adherence)
+If I have a specific question about the AQI for Bhopal, how should you respond, and why? (Test Rule 2 Application)
+What are the general recommendations for school children when the AQI is between 201 and 300?
+How many total cities and total stations are available in the full dataset, according to the metadata in your prompt? (Test Metadata Use)
+Explain the meaning of PM2.5 and why it is a greater health concern than PM10. (Test External Knowledge)
+List the available cities that begin with the letters A-C from the full metadata list. (Test Metadata Use/Truncation)
+Why might a station's AQI be drastically different from its city's overall AQI on the same day? (Test Inferential Knowledge)
+What specific actions should people with heart or lung disease take in the city with the highest current AQI?
+What is the AQI range that defines the 'Good' category, and what precautions are needed?
+What would be the likely AQI_Bucket classification if a city's PM2.5 was 150 and its PM10 was 300? (Test Hypothetical Categorization)
+What is the lowest AQI value in the sampled data that is still considered 'Unhealthy' or worse?
+What is the purpose of providing you with the full list of available cities and stations if the specific data isn't loaded? (Test System Awareness)
+Is it safe to run a marathon outdoors if the AQI is 95? Why or why not?
+Which of the sampled data tables (City or Station) shows the most severe level of air pollution?
+How should a user interpret an AQI of 450 if their city is not in the sample data?
+What does the term 'AQI_Bucket' represent, and how many distinct buckets are present in the city sample?
+What are the limitations of your answers, given the dataset is a token-optimized sample?
+What is the most important takeaway for a general citizen based on the current data? (Test Prioritization)
+If I ask a question about Delhi, but it's not in the sampled tables, what must you state about the data's visibility? (Test Rule 2 Language)
+What are three preventative measures someone could take indoors to protect against poor air quality (AQI > 200)?
+Summarize the single most critical finding from the provided data that triggers the proactive monitoring alert.
+Provide the City, Date, and Health Recommendation for the city with the lowest PM2.5.
+Which sampled city has a PM10 value that is closest to zero but not zero?
+Compare the AQI of the station that starts with the letter 'M' to the city that starts with the letter 'B'. (Test Mixed Search Criteria)
+Is the maximum AQI in the station context higher than the maximum AQI in the city context?
+If the data showed an AQI of 550, what would the general public be advised to do? (Test Extreme Hypothetical)
+How would you handle a query that asks for the population of the city with the highest AQI? (Test Out-of-Scope Handling)
+What is the difference between the PM2.5 reading for the third-highest AQI city and the third-lowest AQI city?
+Provide a concise, professional assessment of the air quality for the cities in the 'Moderate' category (if any are present).
+What two fields in the sampled data are most crucial for determining the AQI_Bucket? (Test Data Relationship Knowledge)
+Find the sampled entity (city or station) that reports the lowest non-zero PM10 value.
+If a city's AQI is 0, what can be inferred about its PM2.5 and PM10 values?
+Are there any sampled stations with a Date older than the Date of the worst-performing city?
+How many unique cities are represented across the entire Station-Level Data sampled context?
+Identify any data entries in the sampled tables that contain a NaN or missing value placeholder (if applicable).
+What is the single data entry (row) that represents the best air quality recorded in the entire sampled context?
+For the city with the lowest AQI, what is its PM2.5 reported as, and what does that suggest?
+List the three sampled cities whose names appear earliest alphabetically.
+Find a station that reports a higher PM2.5 than its PM10, despite having a moderate AQI. (Test Data Anomaly/Filtering)
+What would be the health advisory if the lowest recorded AQI was 310?
+Which sampled station is located in the city that is alphabetically last in the full available list? (Test Cross-Context Join)
+What is the recorded PM2.5 value for the city with the highest date recorded in the city context?
+If the date column showed "2024-02-30" for a city, how would the data loading function likely handle it? (Test errors='coerce')
+What happens to a message after the user sends it and the assistant replies, in terms of logging?
+What are the potential consequences of having zero as a PM2.5 reading?
+Provide the City, AQI, and Date for the 5th city in the sampled City Data table.
+If the AQI of the second station was hypothetically 55, what AQI_Bucket would it fall into?
+Identify any sampled entity where the AQI is exactly 200.
+How is the worst city identified in the Streamlit UI's Proactive Monitoring Alert section?
+Are there any stations in the sample that report the exact same AQI value?
+What is the minimum AQI value recorded in the sampled station data that is not 0?
+For the city with the third-worst AQI, what is its PM10 value?
+Which sampled city's name contains the most number of characters?
+If the PM2.5 for the city with the lowest AQI was 150, how would the AQI likely change?
+What is the combined count of unique dates across both the sampled city and station contexts?
+Describe the data point that has the lowest PM10 value in the city sample.
+How does the application handle logging an entry if the logging function fails?
+What is the highest PM2.5 reading recorded in the city sample?
+List all cities that have an AQI in the range 101-300 in the sample.
+Provide the AQI of the sampled station that is alphabetically second-to-last.
+If a user asks for the AQI of a city not listed in the full available cities list, what should your response be?
+What specific model (including the version number) are you running on Groq?
+List all the cities from the full 'Available Cities' list that start with the letter 'P'. (Test Metadata Use/Filtering)
+What is the required health advisory for the 'Severe' category, regardless of the city? (Test General Knowledge/Rule 3)
+How many different dates are represented across the entire City-Level Data sampled context?
+If I live in Jaipur, what would you tell me about its air quality? (Test Rule 2 Application)
+What are the columns available in the stations metadata file that are not visible in the sampled contexts? (Test Prompt Awareness/Source Knowledge)
+What is your response if a user asks for the temperature in the city with the highest AQI? (Test Out-of-Scope)
+Why did the system designer choose to include the highest-risk city in the small sample?
+What are the health implications of a PM10 value of 350?
+If all PM2.5 readings in the sample were halved, how many cities would move to a better AQI_Bucket? (Test Hypothetical Reclassification)
+What does the errors='coerce' parameter in the data loading function likely do? (Test Code Awareness/Inference)
+What is the purpose of the LOG_FILE named "chat_log.csv"?
+List all the specific rules you are instructed to follow in your system prompt.
+What is the key difference between the data provided in the City-Level context and the Station-Level context?
+What two pieces of metadata (counts) are provided to the LLM to give context on the full dataset scope?
+If a user asks for the AQI of a city that has not been monitored in the full dataset, how should you respond?
+What is the definition of the 'Moderate' AQI_Bucket, and who should take precautions?
+Why is data sampling used in this application, and what is the primary benefit?
+What is the most critical piece of information conveyed by the proactive monitoring alert?
+What are the health risks associated with a city that has a high PM10 but a low PM2.5?
+If the LLM returns an API error, what are the two main potential causes mentioned in the application?
+What is the AQI of the station 'Pimpri-Chinchwad, Pune'? (Test Rule 2 Application)
+Which row in the City-Level Data sample represents the city that the proactive alert is based on?
+What is the most important advice for a pregnant woman in the city with the worst air quality?
+What is the importance of the st.cache_data decorator in the load_aqi_datasets function?
+How would you describe the air quality in the city with the 4th highest AQI?
+If the user asks for the full list of stations, what should you output? (Test Rule 2/Metadata Use)
+What is the difference between an AQI of 99 and an AQI of 101 in terms of classification?
+What does the phrase "ground its response" mean in the context of your system prompt?
+If a city's AQI is 450, is its PM2.5 value guaranteed to be above 250? (Test External Knowledge/Correlation)
+What are the steps for a user to enable the application if the GROQ_API_KEY is missing?
+Which pollutant is typically the most significant driver of the AQI in the 'Severe' category?
+What is the maximum number of rows explicitly loaded into the Station Context table?
+Based on your prompt, who is your target audience for health advisories?
+Which city in the sampled city data has the highest current AQI and what is its corresponding AQI_Bucket?
+What is the date of the most recent data point for the city with the maximum PM2.5?
+List the top 3 cities with the best (lowest) AQI in the current sample.
+For the station with the highest AQI, what is the value of its PM10 concentration?
+How many unique cities and how many unique stations are represented in the sampled context tables?
+Identify the station associated with the worst-performing city in the city context table.
+What is the current average PM2.5 value across all cities in the sampled data?
+Which city in the sample has the lowest PM10 reading?
+Provide the AQI_Bucket for the city that is alphabetically first in the sampled list.
+What is the difference in AQI between the best and worst-performing city in the sample?
+What is the highest recorded AQI in the sampled city data?
+Which city in the city context table has the lowest PM2.5?
+What is the AQI Bucket for the city of Delhi? (Assuming Delhi is in the sample context)
+What was the date of the latest reading for the city with the highest AQI?
+List the AQI_Bucket for all cities in the sampled data.
+Which station in the station context has the highest PM10 value?
+What is the PM2.5 reading for the station named Sanjivani Hospital? (Replace with a specific station in the sample)
+Give me the latest PM10, PM2.5, and AQI for the worst-performing city.
+Which station has an AQI_Bucket of 'Poor'? (Test if an intermediate city/station is in the sample)
+What is the AQI for the second city in the city context table?
+What are the column names in the City-Level Data table?
+What is the date on the latest reading in the station data context?
+Which city has a PM10 value greater than 150?
+What is the highest PM2.5 recorded in the entire sampled data?
+What is a 'Satisfactory' AQI bucket in terms of health risk?
+Compare the AQI of Mumbai and Chennai. (Replace with cities in the sample)
+Which city has a worse AQI: the one with the highest PM2.5 or the one with the highest PM10?
+Rank the top 3 cities by their AQI value from worst to best.
+Which station has the lowest overall AQI?
+Calculate the difference in PM2.5 between the best city and the worst city.
+Are the PM2.5 levels generally higher or lower than the PM10 levels across the sampled cities?
+How does the PM10 of the best station compare to the average PM10 of the sampled cities?
+Group the sampled cities by their AQI_Bucket and list their AQI.
+Which city has the highest ratio of PM2.5 to PM10?
+Find the average AQI of all cities listed in the sampled context.
+Which city has an AQI of exactly 301? (Test for specific value matching)
+Is the AQI in Kolkata better or worse than the AQI in Jaipur? (Replace with cities in the sample)
+Which station reports the same AQI_Bucket as the worst city?
+Compare the PM2.5 and AQI values for the first 5 stations in the context.
+If the AQI in Pune was 450, how much higher is that than the current recorded AQI? (Use a city in the sample)
+What is the AQI for Bhopal? (Use a city not in the sample, but in the cities list)
+What is the latest PM2.5 for the station ITO, Delhi? (Use a station not in the sample, but in the stations list)
+Is Hyderabad one of the available cities in the full dataset?
+Can you tell me the AQI for all 100+ available stations?
+The user is asking for the latest AQI of Goa. You do not have the data. What is the official rule for this?
+What is the AQI for a city that is not even in your available city list?
+Tell me about the air quality trend over the last 30 days for Mumbai. (The data is only a snapshot)
+What is the total count of cities in the full dataset? (Test against len(cities))
+Does the city of Nagpur exist in the available city list?
+How many total stations are in the full dataset? (Test against len(stations))
+What is the most common AQI_Bucket in the sampled city data?
+Why are the data tables I see in the sidebar only showing a sample?
+What is the date of the reading for the station named Bandra, Mumbai? (Use a station not in the sample)
+Who is the best mayor in India? (Out of scope/Guardrail test)
+List all cities you have data for. (Test against the full list vs. sample)
+Explain what PM2.5 is and why it's monitored.
+Based on the system prompt, what is the one specific rule about answering for cities not in the sample data?
+Give me the AQI for Gurgaon. (Use a city not in the sample)
+What is the name of the LLM model you are currently running on?
+What is the best health advice you can give the residents of the city with the highest AQI?
+Which city currently has the highest AQI?
+Which city has the lowest AQI today?
+List the top 5 cities by AQI in descending order.
+What is the average AQI across all sampled cities?
+Compare the AQI between Delhi and Mumbai.
+Which monitoring station shows the highest PM2.5 concentration?
+What is the PM10 level in the worst-performing city?
+How many cities fall into the “Moderate” AQI bucket?
+How does the AQI of Delhi compare with the national average?
+Identify stations where PM2.5 exceeds PM10.
+Which station recorded the most hazardous air level recently?
+What is the average PM2.5 concentration across all cities?
+Rank the top 3 cities with the highest PM10 levels.
+Compare AQI trends between two sample dates if available.
+Which city has shown improvement in AQI recently?
+What is the correlation between PM2.5 and PM10 in the dataset?
+Which AQI category is most common across all cities?
+Which city falls under the “Good” AQI category?
+Give a health advisory for citizens in the worst city.
+What precautions are suggested for cities with “Poor” air quality?
+What is the AQI threshold for unhealthy conditions?
+How many cities show AQI above 300?
+Is there any city with AQI better than 50?
+Compare PM2.5 and PM10 ratios in the top polluted cities.
+Which pollutants are primarily responsible for high AQI levels?
+What are the health impacts of exposure to PM2.5?
+How does air pollution affect children and elderly populations?
+What is the difference between PM2.5 and PM10 in measurement terms?
+Which AQI bucket corresponds to “Severe” health risk?
+How can citizens protect themselves from air pollution exposure?
+Provide daily health advice based on current AQI levels.
+Which cities are at “Very Poor” AQI levels today?
+Is the average AQI improving compared to last week’s trend?
+Estimate the average exposure risk across all stations.
+Which city has AQI between 100 and 200?
+Which city is most at risk for respiratory illnesses?
+Give a brief summary of the current air quality scenario.
+Which pollutants are not measured but could influence AQI?
+What is the best AQI value recorded in the dataset?
+What is the worst AQI value recorded in the dataset?
+How many monitoring stations are located in Delhi?
+Which station in Delhi shows the cleanest air?
+Compare the PM2.5 levels between two random stations.
+Which city shows balanced PM2.5 and PM10 values?
+How does temperature or weather influence AQI levels?
+Predict which city may experience worsening AQI soon.
+Suggest government interventions to reduce PM2.5 pollution.
+Explain how AQI is calculated from raw pollutant data.
+What are the sources of particulate matter in urban areas?
+Provide region-specific air pollution mitigation advice.
+How might AI and LLM models improve AQI prediction accuracy?
+Compare LLM response time vs traditional AQI models.
+How reliable is Groq’s LLM-based real-time AQI interpretation?
+What role can Groq acceleration play in real-time pollution alerts?
+Evaluate the feasibility of LLM-based environmental monitoring.
+How can LLMs enhance public awareness about air pollution?
+Compare the health risk levels between “Moderate” and “Poor” AQI.
+List cities with AQI categorized as “Satisfactory.”
+Rank AQI categories by increasing health risk.
+What is the range of AQI considered safe for outdoor activity?
+How should citizens react when AQI exceeds 300?
+How do AQI levels differ between industrial and residential zones?
+What preventive measures can schools take during high AQI days?
+How does indoor air quality differ from outdoor readings?
+Which city needs immediate government action based on AQI?
+Which stations have consistent AQI above 200?
+Are there any cities showing improvement trends month-over-month?
+How can vector databases enhance environmental data retrieval?
+Describe the architecture of the Groq-LangChain-AQI chatbot.
+What datasets are most relevant for future AQI research?
+How is AQI data integrated into LLM context efficiently?
+Discuss token optimization strategies for large AQI datasets.
+What challenges exist in real-time AQI streaming via LLMs?
+Compare the latency of Groq vs GPU-based AQI responses.
+Suggest ways to improve AQI chatbot accuracy.
+How does the chatbot handle incomplete or missing data?
+What are the limitations of LLM-based environmental analysis?
+How could multilingual support improve AQI communication?
+Evaluate the chatbot’s response diversity across languages.
+Compare LLM results with government AQI dashboards.
+How can AQI alerts be personalized based on health data?
+Discuss how AQI datasets can aid climate change analysis.
+How can cities leverage AI for pollution control?
+What ethical considerations exist for AI in environmental policy?
+Suggest research gaps in AI-driven AQI forecasting.
+How can satellite data complement ground AQI measurements?
+What is the relationship between AQI and urban traffic density?
+How can real-time LLM analysis assist emergency response systems?
+Which city has the greatest AQI variation among its stations?
+Identify any data quality issues in the AQI dataset.
+How can transfer learning improve AQI prediction models?
+Suggest model improvements for multilingual AQI query handling.
+Evaluate the chatbot’s ability to summarize multi-city pollution data.
+How can visual dashboards enhance AQI chatbot usability?
+Compare user experience of Groq chatbot vs standard APIs.
+Discuss future research directions in LLM-based air monitoring.
+Provide an executive summary of today’s national air quality.
+What insights can be drawn for policymaking from this dataset?
+Suggest how public health departments can use this system.
+How can this chatbot framework be adapted for water or noise pollution analysis?
+What is the current AQI in Delhi?
+Which city has the worst AQI today?
+Which city has the best air quality?
+Rank the top 5 cities by AQI from worst to best.
+What is the average AQI across all sampled cities?
+How many cities have AQI above 300?
+Which cities fall in the “Poor” AQI category?
+Which cities fall in the “Moderate” AQI category?
+Are there any cities with “Good” AQI today?
+Which city’s AQI has improved compared to last recorded data?
+Which city’s AQI has worsened?
+Is Delhi’s AQI better than Mumbai’s?
+Compare AQI between Delhi and Bangalore.
+Compare air quality between northern and southern cities.
+Which city’s AQI is closest to the national average?
+Which city has the highest PM2.5 level?
+Which city has the highest PM10 level?
+What is the PM2.5 to PM10 ratio for the city with the worst AQI?
+Compare PM2.5 levels between Delhi and Lucknow.
+Which pollutant contributes more to AQI in major cities?
+What is the average PM2.5 level among all cities?
+Which city has PM2.5 within safe WHO limits?
+What is the safe PM2.5 range according to health standards?
+How does PM10 vary between industrial and non-industrial cities?
+Is there a strong difference between PM2.5 and PM10 in coastal cities?
+Which station reports the highest AQI?
+What is the AQI for Anand Vihar station?
+Compare PM2.5 levels at two stations in Delhi.
+Which station in Mumbai has the cleanest air?
+Which station in Delhi records the worst pollution?
+How many stations have AQI above 200?
+What is the average AQI across all sampled stations?
+Which station’s AQI has improved recently?
+Are any stations reporting missing or incomplete data?
+Compare AQI across all stations in Kolkata.
+Compare the AQI of metro cities (Delhi, Mumbai, Chennai, Kolkata).
+Which city has the highest PM2.5/AQI ratio?
+Is air quality worse in inland or coastal regions?
+Which region of India seems to have better AQI overall?
+Compare the health risk between top 3 polluted cities.
+Which city’s AQI category is “Severe”?
+Which city’s AQI category is “Good”?
+How many cities are in “Very Poor” category?
+Which city’s AQI changed category recently?
+Compare AQI patterns between weekdays and weekends.
+What is the health impact of AQI above 400?
+What precautions should citizens take at AQI 300+?
+Is it safe to go jogging outdoors in Delhi today?
+What AQI range is considered unhealthy for sensitive groups?
+What advice would you give to asthmatic people in high-AQI cities?
+What are the immediate symptoms of pollution exposure?
+How can residents reduce indoor pollution?
+What should schools do during severe AQI days?
+Which age groups are most affected by poor air quality?
+When should one wear an N95 mask based on AQI levels?
+How can city administrations reduce PM2.5 levels?
+What policies could help improve urban AQI?
+How can public transportation impact air quality?
+Which cities could benefit most from emission controls?
+How does industrial pollution affect AQI in nearby stations?
+Are current AQI levels within India’s national standards?
+Compare current AQI with WHO guidelines.
+Suggest policy actions for cities with AQI > 300.
+Which city needs the most urgent intervention?
+How can data-driven AI tools improve air quality forecasting?
+Based on the dataset, which city should issue an emergency health alert?
+What does the data suggest about pollution trends?
+Does the sampled data show regional air quality imbalance?
+Is there evidence that some cities are recovering from pollution?
+Identify possible data anomalies in AQI readings.
+Predict which city might face hazardous levels soon.
+Explain how the LLM uses AQI data to respond.
+How reliable are the current readings compared to national averages?
+Summarize the AQI trend for the top 10 cities.
+Provide an executive summary of India’s air quality today.
+What is the recommended action when AQI exceeds 200?
+What outdoor activities are safe under “Moderate” AQI?
+When should hospitals issue air quality alerts?
+What indoor practices help reduce AQI exposure?
+How does AQI impact cardiovascular health?
+What long-term risks are associated with AQI > 150?
+What should pregnant women do during poor AQI days?
+How can citizens track AQI effectively?
+Should people use air purifiers today?
+Is mask usage helpful under “Poor” AQI?
+Calculate the mean AQI across all cities.
+Find the city with the median AQI.
+Determine the AQI variance among all cities.
+What is the standard deviation of AQI across stations?
+Is there correlation between PM2.5 and AQI?
+Is AQI more sensitive to PM2.5 or PM10?
+Which pollutant shows the highest variability?
+Compare AQI ranges across all sampled regions.
+What percentage of cities are above 100 AQI?
+What is the AQI range (max-min) in the sample?
+Explain how AQI is calculated.
+What are AQI categories and their meanings?
+How does weather influence AQI levels?
+How does population density relate to AQI?
+What are long-term solutions for improving air quality in Indian cities?
+What is the AQI of Delhi today?
+Which city currently has the worst air quality?
+Which city has the cleanest air today?
+How does Mumbai’s AQI compare to Delhi?
+What is the AQI category for Bengaluru?
+Which city shows the highest PM2.5 concentration?
+What is the average AQI across all cities?
+How many cities have AQI above 200?
+Which cities fall under the “Moderate” category?
+Which city has shown consistent improvement in AQI?
+Which monitoring station reports the highest AQI?
+Which station in Delhi records the worst air?
+Compare AQI levels across three major stations in Mumbai.
+What is the AQI at Chandni Chowk station?
+Which station recorded a sudden increase in PM10?
+What is the lowest AQI recorded among all stations?
+Which station shows the cleanest air across all cities?
+How do AQI readings differ across stations in Chennai?
+List the top 5 most polluted monitoring stations.
+What are the AQI trends at Noida Sector 62 station?
+Which pollutant contributes most to AQI values?
+Compare PM2.5 and PM10 levels in Delhi and Lucknow.
+What are the top five cities with the highest PM2.5 values?
+What are the safe limits for PM2.5 according to WHO?
+Which city shows abnormally high PM10 readings?
+How does PM2.5 correlate with AQI category?
+Which monitoring station shows balanced PM2.5 and PM10 levels?
+Are PM10 levels generally improving across cities?
+What health effects are associated with high PM2.5 exposure?
+Which pollutant is the major driver of poor AQI in India?
+What was the AQI trend over the past month for Delhi?
+How has the AQI in Mumbai changed compared to last week?
+What is the seasonal variation in AQI for northern cities?
+During which months does air pollution peak in India?
+Compare AQI data between weekdays and weekends.
+Has AQI improved after the monsoon season?
+Identify cities showing declining pollution trends.
+Which stations show sudden AQI spikes recently?
+How stable is air quality across stations in the past month?
+What is the year-over-year change in AQI for Chennai?
+What health advice applies to cities with “Poor” AQI?
+Who is most at risk during “Very Poor” air quality?
+What precautions should be taken at AQI 250?
+Is it safe to exercise outdoors at AQI 150?
+What masks are effective during high pollution levels?
+How does air quality affect people with asthma?
+What is the safe indoor AQI level?
+Which AQI category indicates hazardous air?
+How can citizens reduce exposure to PM2.5?
+What health advisory is applicable today?
+Compare air quality between north and south Indian cities.
+Which region generally has cleaner air: coastal or inland?
+How does air quality differ between Delhi and Pune?
+What are the top three most polluted states in India?
+Compare AQI across major metro cities.
+What region consistently performs best in air quality?
+How do industrial zones compare with residential ones?
+What is the AQI variation between urban and rural stations?
+Is pollution higher in plains or hilly regions?
+Which region contributes most to national air pollution?
+What does AQI stand for?
+What are the different AQI categories?
+How is AQI calculated from pollutant data?
+What is the difference between PM2.5 and PM10?
+How do meteorological conditions affect AQI?
+What is the significance of AQI Bucket?
+What are common air pollutants measured in India?
+How does humidity influence particulate matter levels?
+What are short-term and long-term effects of bad air quality?
+What measures can local governments take to reduce AQI?
+How does the chatbot use city and station data to answer queries?
+Is the chatbot using live AQI data or a sampled snapshot?
+How reliable is the current AQI dataset?
+What happens if a city is not found in the context data?
+How are missing AQI values handled in preprocessing?
+What sampling strategy is applied before sending data to Groq LLM?
+How is token optimization achieved in the LLM context?
+Why are only 10 cities and 15 stations used in the context?
+How are outliers in AQI data detected and managed?
+How does the chatbot respond to queries outside dataset scope?
+What is the correlation between PM2.5 and AQI?
+Perform a regression analysis of AQI vs PM10.
+Which city has the highest standard deviation in AQI?
+What is the median AQI across all stations?
+Calculate the mean AQI for all cities.
+How many cities are in the “Good” category?
+What percentage of stations report “Poor” AQI?
+Identify anomalies in AQI readings.
+Which pollutants show the highest variance?
+What statistical insights can be drawn from city_day data?
+How can AI models like Groq help in air quality prediction?
+What are policy implications of persistent high AQI?
+Suggest government interventions to reduce urban air pollution.
+How can LLMs assist in public health awareness?
+What technological measures improve air monitoring accuracy?
+Predict which city might improve most in the next month.
+How can citizens contribute to reducing AQI?
+What long-term strategies can improve air quality?
+How does rapid urbanization impact air quality trends?
+What role can renewable energy adoption play in reducing AQI?
